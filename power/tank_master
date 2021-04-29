@@ -1,1 +1,6 @@
-
+Tank Master -
+- The tank master owns a tank that can only kill specific people from a list every night. Each night, a new list is generated from which they can choose.
+- Each time they kill someone, the number of people on the list reduces by 1. At the start, there will be [(no. of people)/5 rounded down] people. This list will not include their teammates.  The list count increases to the original number upon the tank master's death.
+- Alternatively, the tank master can use their tank to protect someone once in the game as protection till they're attacked but consequently losing the ability to use the tank till they die and respawn.
+- Kill is night end. Protection is instant.
+- Respawns in 6 phases.

@@ -1,0 +1,8 @@
+Barricader - 
+- The barricader can protect people with 3 types of shield. 
+-- The Divine Shield, protects the person for a night, and reveals the name of the attacker if they are attacked.
+-- The Strong Shield, protects the person for a night, and has no special effects.
+-- The Weak Shield, protects the person for a night, but kills you as well if the person is attacked.
+- Each of the shields can be used only once, regardless of if the person is attacked or not. Gets back all the shields if they die and respawn.
+- Cannot use more than 1 shield every night. Can be role blocked. Protection is instant.
+- Respawns in 6 phases.

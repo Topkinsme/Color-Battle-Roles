@@ -1,5 +1,5 @@
 Goon - Mafia
 - Is part of the mafia team, and has the ability to check the role of a person, while simultaneously role blocking them for a particular night.
 - Being part of the mafia, the Goon has permanent night protection.
-- The goon performs his action in the morning, and the role-block happens in the night. The target is informed they were role blocked.
+- The goon performs his action in the morning, and receives the results during the night, along with the role-block happening in the night. The target is informed they were role blocked.
 - Does not respawn.

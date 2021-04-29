@@ -1,0 +1,7 @@
+Bomber
+- The bomber, when ever killed by a member of another faction, kills a certain number people of their choice.
+- The bomber can pick Total people/5, rounded down, targets to kill at any point after the start of the game, and cannot change these targets at any time. They can take their time in deciding their targets, but once picked, it cannot be changed.
+- If the Bomber is ever killed by a member of another faction, all the other people they have chosen will die immediately. These kills are not counted as a visit.
+- The bombed can pick new targets once they have died and come back to life. The bomber dying because of tribute will not trigger their ability.
+- Picking a target is immediate, and the targets are killed at the same time as when the bomber is killed.
+- Respawns in 6 phases.

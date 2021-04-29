@@ -1,0 +1,5 @@
+Negotiator -
+- The negotiator can pick a target at any point, and if the negotiator is attacked, the target will die instead. They cannot change the target after picking, unless the target dies before the ability is used.
+- They can only do this once every life. They regain this ability on death.
+- Action is immediate. The target dies at the time where the negotiator was supposed to die. Redirecting the kill makes the killer visit the target instead of visiting the negotiator. 
+- Respawns in 4 phases.

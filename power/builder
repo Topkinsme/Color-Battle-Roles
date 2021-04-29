@@ -1,0 +1,7 @@
+Builder-
+- The builder gets building parts when any opponents die. Each person killed by their team gives them 2 pieces, any non team kills from outside the team gives him 1 piece. The builder can then use these parts to build the structures given below:
+-- Wall - 12 parts - Protects all members of their team from all attacks for a night. Structure will remain if not attacked.
+-- Fort - 21 parts - Protects all members of their team from all attacks for 2 nights. Structure will remain if not attacked.
+-- Spikes - 7 parts - The builder can choose to add spiked to any already existing structures, which will kill the first attacker who tries to attack the structure. Note that spikes do not stop the structure from breaking. The attacks will still break the structures. Any kills using the spiked do not award any parts.
+- The builder continues to get parts even when dead. However, they can only build when alive. Structures take 1 night to get built and only get built after the attacks occur. Two structures cannot exist at once.
+- Respawns in 6 phases.

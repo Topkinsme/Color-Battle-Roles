@@ -1,2 +1,2 @@
 # Color-Battle-Roles
-Roles used in Color Battles
+Roles used in Color Battles.

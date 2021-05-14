@@ -1,7 +1,7 @@
-Potion Master-
+Potion Master- (5)
 - Can craft any of these potions to use in the game:
 -- Kill potion - Use this to kill 2 people at the end of phase.
--- Protection potion - Use this to protect someone from all attacks during the night. If the target is not attacked, the protection will continue on to the next night. (Doesn't expire till attacked)
+-- Protection potion - Use this to protect someone from all attacks during the night. If the target is not attacked, the protection will continue on to the next night. (Doesn't expire till attacked) Note that this is a weak protection.
 -- Revive Potion - Use this to bring back a non-permanently dead teammate back to life instantly.
 - All potions take 2 days to make. The potion master does not lose progress on death. The potion will be added to a person's inventory upon completion and can be used at any time. (Even Day) 
 - Respawns in 6 phases.

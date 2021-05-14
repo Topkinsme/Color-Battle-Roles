@@ -1,4 +1,4 @@
-Curse Caster-
+Curse Caster- (1)
 - Has the ability to cast a curse on someone every night. A curse resets all prayer progress on the chosen person. 
 - If the selected person is being protected by 2 prayers, it will take 2 curses to undo the protection.
 - Curse casting is instant. The target is informed about what happened. Has no cooldown on abilities.

@@ -1,4 +1,4 @@
-Robber
+Robber- (3)
 - Has the ability to steal money from any individual person or any team's vault, every night.
 - The robber can take some of the money present inside any 1 person's balance or 1 team's vault, by winning a game against them. Winning the game would give the robber 15%, a draw would give the robber 5%, and a loss would give the robber nothing.
 - The game is played by both the robber and the target picking a choice between a Bow, Shield and a Cannon. The winning order is Bow > Cannon > Shield > Bow

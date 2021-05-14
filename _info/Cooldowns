@@ -1,0 +1,9 @@
+Cooldowns
+
+In this game, cooldowns are defined a bit weirdly.
+
+A cooldown of 0 days means, that action can be used every night.
+
+A cooldown of 1 day means, the player has to wait 1 day after using the action, to use it again. And so on.
+
+Any action that isn't performed every day (Cooldown of 0 days) is eligible to be called a "action with a cooldown" and items that reduce cooldown will work on them. (With the exception of crafting cooldowns.) 

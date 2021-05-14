@@ -2,4 +2,5 @@ Guard- (5)
 - Can protect someone from all attacks at all times. They will die instead of the person they protect. 
 - Cannot change their target after initially picking it (Unless target somehow dies before guard). Protecting is immediate. 
 - The guard cannot be role-blocked. The guard is the last layer of protection, any other protection comes first in effect before this. Guard is weak protection.
+- If the Guard target is Strong Attacked, both the target and the Guard will die.
 - Respawns in 4 phases.

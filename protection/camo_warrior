@@ -1,5 +1,5 @@
 Camo Warrior-
 - Has the ability to go camo during the night. They can either pick to go camo themselves, or pick another person to go camo instead of them. They cannot pick the same person twice in a row.
-- The person cannot be killed when they have the camo mode on. (Except with the use of poison)
-- Action is immediate. Has a cooldown of 1 day.
+- The person will be protected when they have camo mode on.
+- Action is immediate. Has a cooldown of 1 day. Protection is Strong Protection.
 - Respawns in 4 phases.

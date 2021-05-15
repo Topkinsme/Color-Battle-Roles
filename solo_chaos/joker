@@ -2,7 +2,7 @@ Joker - Solo -
 - May choose between 4 different abilities. Must cycle through every ability before they can use an already used ability. An ability has to be used each night (cannot choose to abstain from performing any action).
 -- Diamonds - Take money from a player or a color vault. Stealing from a player will take 20% of the currency the player has. Stealing from a vault will take 10% of the currency the vault contains.
 -- Clubs - Disable all protections on a specific color for the night.
--- Hearts - Protect yourself from an incoming attack.
+-- Hearts - Protect yourself from an incoming attack. This is a strong protection.
 -- Spades - Kill up to 2 people.  May choose to target 1 player, which will cause it to be a strong attack.
 - The joker wins when at least [players/3] (rounded down) people have died permanently before they die.
 - Robbing and killing is end phase, while protection and disabling protection is instant.

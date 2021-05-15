@@ -1,7 +1,7 @@
 Killer- SOLO -
 - Kills 1 person each night. Gets 1 heart for each kill, gets 2 hearts if they kill a solo or a king.
 - Has to get at least a certain number of hearts to win. Killing the same person doesn't give any hearts. Killing a person from the same team back to back gives no hearts.
-- Number of hearts they need to get is Number of players/3, rounded down. Can trade in 2 hearts for 1 night protection any time. The killer has protection until they get 2 hearts for the first time.
+- Number of hearts they need to get is Number of players/3, rounded down. Can trade in 2 hearts for 1 strong night protection any time. The killer has strong protection until they get 2 hearts for the first time.
 - The killer will automatically die if they can not possibly earn enough hearts to win. They will also lose if there is only 1 team left alive.
 - Has no cooldown. Kill happens at night end. 
 - Doesn't respawn.

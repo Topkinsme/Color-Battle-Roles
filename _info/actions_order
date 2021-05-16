@@ -1,0 +1,24 @@
+Order of actions during day and night
+
+DAY
+-People respawn.
+-Phase change cash.
+-Targets are poisoned, if any.
+-Kidnapped person is kidnapped/Item agent contacts someone/A person joins cult/Postman package is given.
+-Auction item is on display.
+-King chooses tribute.
+... (Any and all instant actions)
+-Auction is closed.
+-Tribute with least cash is killed.
+-Merchant is given cash.
+
+NIGHT
+-People respawn.
+-Phase change cash.
+-Targets are poisoned, if any.
+... (Any and all instant actions)
+-Kidnapper chooses target/Item Agent picks someone
+-All attacks.
+-Respawn Time modifications.
+-Gem Transfer.
+-Wall is built.

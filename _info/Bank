@@ -1,0 +1,9 @@
+Bank
+
+Bank is a very useful building for people who want to earn money! The bank has 2 features, namely loans and deposits.
+
+Deposits-
+You can choose to deposit any amount of money in the bank. You will earn a 10% compound interest for every 12 hours that you don't take out the cash. Note that these 12 hours are exact, and not counted by phases.
+
+Loans-
+If you are in need of some money at any point duing the game, you can use the bank's loan feature to take a loan. The loan amounts have a 10% interest rate, which is taken from your forge income until your debt is repayed. You cannot take loans whose interest amount is more than your forge income can cover.

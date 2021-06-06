@@ -5,6 +5,14 @@
   Action can only be used once per game.
 - Respawns in 2 phases.
 
+0. Jester
+- During the day, may choose one player. The following night, all actions performed on the player will be redirected onto themself.
+- They cannot change their target during the night.
+  Also may not choose to redirect on the same player for two nights in a row.
+  Action has no cooldown.
+- Action is used during the day, and is activated on end phase during the following night.
+- Respawns in 2 phases.
+
 0. Mage
 - May choose to use one of three abilities:
 - Abilities:

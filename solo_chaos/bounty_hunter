@@ -1,0 +1,12 @@
+0. Bounty Hunter
+- Every Night Phase will receive a choice of three players. 
+  May only choose to kill one of them.
+  Every time they successfully kill a target, they will receive some money.
+  Wins if they have received a net profit of $2000 through bounty killing.
+- Every successful kill will give them $200 of a bounty reward.
+  If they kill a King, they will instead receive $500 of a bounty reward.
+  Every attack will be a Weak Attack [until the Player purchases the item that changes from Weak to Strong Attacks].
+  May purchase two different items, which will deduct from the net profit of bounty rewards [may not purchase if their net profit is below the price]:
+  + May pay $300 to buy one weak protection (that lasts until attacked).
+  + May pay $750 to change their Weak Attacks into Strong Attacks until the end of the game.
+- All Attacks are End Phase.

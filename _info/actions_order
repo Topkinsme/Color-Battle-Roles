@@ -11,6 +11,7 @@ DAY
 -Auction is closed.
 -Tribute with least cash is killed.
 -Merchant is given cash.
+-Cult Leader Curse is cast.
 
 NIGHT
 -People respawn.
@@ -20,5 +21,6 @@ NIGHT
 -Kidnapper chooses target/Item Agent picks someone
 -All attacks.
 -Respawn Time modifications.
+-Cult Leader Curse is cast.
 -Gem Transfer.
 -Wall is built.

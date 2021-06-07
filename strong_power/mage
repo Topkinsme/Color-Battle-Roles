@@ -3,8 +3,8 @@
 - Abilities:
   1. PROTECT - Give one Weak Protection to a player for the night.
   2. INSPECT - Find out someone's exact role (but not colour faction).
-  3. SACRIFICE - Kill yourself in order to cast a Strong Attack on another player.
+  3. SACRIFICE - Kills themself in order to cast a Strong Attack on another player.
 - PROTECT has a 4 phase cooldown.
   INSPECT has a 6 phase cooldown.
-  SACRIFICE's Powerful Attack and Death are both activated on end phase.
+  SACRIFICE's Strong Attack and Death are both activated on end phase.
 - Respawns in 6 phases.

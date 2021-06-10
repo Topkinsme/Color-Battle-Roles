@@ -1,5 +1,5 @@
 Painter- (3)
-- Can paint a person every day. This will make make investigations on that player give the result of what they were painted as.
+- Can paint a person every day. This will make investigations on that player give the result of what they were painted as.
     - Players can be painted as either a colour or a role (one or the other but not both).
     - Paint wears off at the start of the next day.
 - Action is Day end. Has no cooldowns.

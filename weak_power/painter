@@ -1,4 +1,7 @@
 Painter- (3)
-- Can paint a person every night as a certain colour or as a certain role making any inspection roles get a fake result on checking.
-- Action is immediate. Has no cooldowns.
+- Can paint a person every day. This will make make investigations on that player give the result of what they were painted as.
+    - Players can be painted as either a colour or a role (one or the other but not both).
+    - Paint wears off at the start of the next day.
+- Action is Day end. Has no cooldowns.
+- If the painter dies during day, either by tribute or some other means, then the action does not go through.
 - Respawns in 2 phases.

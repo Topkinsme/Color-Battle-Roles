@@ -2,6 +2,6 @@ Town Leader - SOLO
 - As the leader of a powerful town, you have the power to kill a person every night (End Phase action), or protect someone against all attacks for a night (Strong Protection). (You cannot protect yourself twice in a row).
 - Once you have used an action on a person other than you, you can never use an action on them again in a game.
 - The town leader has to choose an action on every day that they can. Failing to do so will automatically kill them.
-- The town leader submits actions during the night. Protecting a person is instant, killing a person is night end. The town leader cannot change their action, if they choose to protect a person.
+- The town leader submits actions during the night. Protecting or killing a person is night end. Both count as a visiting action.
 - The town leader wins if they survive till the end, or if they do not have a valid target to use their power on when a night starts.
 - Cannot respawn.

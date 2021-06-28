@@ -1,4 +1,6 @@
 Finisher- (5)
-- Can delay a person's respawn by 4 phases.
-- Has a ability cooldown of 1 day. Action is night end after kills. Chooses the action during the night.
+- At night, the finisher can choose to delay a person's respawn by 4 phases.
+- Cannot target players who are not respawning.
+- Action is night end after kill. 2 phase cooldown.
+- Due to the action occuring after kills, it will fail if the finisher is killed that night.
 - Respawns in 6 phases.

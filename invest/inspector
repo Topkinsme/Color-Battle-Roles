@@ -1,4 +1,5 @@
-Inspector- (5)
+Inspector- (4)
 - Can get the role category of a person by checking them during the night.
-- Action is immediate. Has no cooldown.
+- If target is disguised, they will show up as the category of the role they are disguised as.
+- Action is immediate. 2 phase cooldown.
 - Respawns in 4 phases.

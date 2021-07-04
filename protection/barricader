@@ -4,5 +4,5 @@ Barricader - (6)
 -- The Strong Shield, protects the person for a night, and has no special effects. It is Strong Protection.
 -- The Weak Shield, protects the person for a night, but kills you as well if the person is attacked. It is Weak Protection.
 - Each of the shields can be used only once, regardless of if the person is attacked or not. Gets back all the shields if they die and respawn.
-- Cannot use more than 1 shield every night. Can be role blocked. Protection is instant.
+- Cannot use more than 1 shield every night. Can be role blocked. Protection is night end. Counts as a visting action.
 - Respawns in 6 phases.

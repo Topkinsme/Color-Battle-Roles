@@ -1,0 +1,3 @@
+Visiting actions
+
+Not all actions in Colour Battles are visits, and most of them aren't affected by actions that affect visiting actions. As a general guideline, any action that will attack or protect someone is usually a visit. Type `!info <role>` to learn if that role visits or not.

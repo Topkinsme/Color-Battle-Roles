@@ -1,6 +1,7 @@
 Anarchist - SOLO
 - Can kill 2 person every night. If the anarchist kills a king, he can kill 3 people every night that follows, and if he kills another king, he can kill 4 people and so on and so forth.
 - If the Anarchist is attacked, the number of kills he can perform reduces by 1, ticking to 0 and eventually -1 at which point the anarchist will die.
-- Kills are phase end. The Anarchist wins when there are no more kings alive. (They need to kill all princes as well.)
 - All of the Anarchist's protections are weak protections, meaning if they are attacked multiple times in a night, they lose multiple kills.
+- Kills are night end. Counts as a visiting action. has no cooldown. 
+- The Anarchist wins when there are no more royalty alive.
 - Cannot respawn.

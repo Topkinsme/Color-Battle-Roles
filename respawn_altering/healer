@@ -1,4 +1,6 @@
 Healer- (5)
-- Can reduce a person's respawn by 4 phases.
-- Has a ability cooldown of 1 day. Action is end phase after kills. Chooses the action during the night.
+- During the night, can reduce a person's respawn by 4 phases.
+- Cannot target players who are not respawning.
+- Action is end phase after kills. 2 phase cooldown.
+- Due to the action occuring after kills, it will fail if the healer is killed that night.
 - Respawns in 6 phases.

@@ -1,6 +1,5 @@
-0. Siege Warrior
-- Once per game, may decide to start a siege war on a specified colour faction.
-- Every player within the colour faction that the siege warrior has started a siege on will be roleblocked for the night.
-- Ability is performed during the day and its effects will be applied the following night.
-  Ability can only be used once per game.
+Siege Warrior (4)
+- Once per game, during the day, the Siege Warrior may decide to start a siege war on a specified colour faction.
+- Every player within the colour faction being seiged will be roleblocked for the night.
+- Action is day end. Can only be used one per game.
 - Respawns in 2 phases.

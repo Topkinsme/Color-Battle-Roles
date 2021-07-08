@@ -1,0 +1,6 @@
+Therapist- (4)
+- The therapist has the ability to talk to a person each night, to reduce their respawn time by 2 phases before they die. 
+- They can do this until the respawn time of a person drops to 2 phases. Any attempts beyond that will fail. The person if informed that a therapist had talked to them.
+- After a person respawns, their respawn times are set back to normal. 
+- Therapy is a night end action. Action fails if the person is killed before the therapy session. Therapy is not visiting action. 
+- Respawns in 6 phases.

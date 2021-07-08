@@ -1,0 +1,7 @@
+Warden- (5)
+- Has the ability to put 1 person in jail at the start of the game. By default, any and all actions used on the jailed person, will instead be applied to the Warden. This includes attacks, protects, invests and also market items.
+- The warden can choose to turn visitng mode on or off during a night. By default this is on, and if it is turned off, all actions will no longer be directed. However, the warden cannot change their target unless the target dies.
+- Turning vising mode on or off is a night end action. The warden does not visit anyone, but if any actions are redirected, the actions visit the warden instead of the jailed person.
+- If the warden dies, they can change thier target once they respawn.
+- Choosing a target is also night end on night 1, and every night they have to choose someone to jail after that.
+- Respawns in 6 phases.

@@ -1,0 +1,8 @@
+Lunatic-
+- The lunatic starts the game with in possention of an Egg. The egg starts with a hunger level of 5. 
+- The lunatic himself has the ability to weak attack a person every night. With each person they kill, they get points based on the respawning times of their targets. (Infinite phases = 4 points, 6 phases = 3 points, 4 phases = 2 points etc)
+- The egg loses 1 hunger point every night. The lunatic has to use their points to feed the egg. The lunatic cannot raise the hunger level over 5. If the lunatic collects (Number_of_players/3, rounded down) points when the egg is at full hunger, then the Lunatic wins.
+- The lunatic can trade in 1 point for a weak protection at any point in the game.
+- If ever the egg reaches 0 hunger points, the egg will eat the lunatic and the lunatic will lose.
+- Kill is night end. It is a visiting action. Protection is also night end.
+- Does not respawn.

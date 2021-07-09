@@ -1,6 +1,6 @@
 Angel- (6)
-- The angel gains 1 favour each time someone in game respawns.
+- The angel gains 1 favour each time someone in game respawns, regardless of if the angel is alive or dead.
 - The angel can use favours to get weak protection or weak attacks.
 - Protecting the Angel themselves costs 1 favour, protecting someone else costs 2 favour. Weak attacking someone costs 3 favour.
-- Protection and attacks are both night end and visitng actions. They both have no cooldown, but cannot be each used more than once in 1 night.
-- Respawns in 3 phases. 
+- Protection and attacks are both night end and visitng actions. They both have no cooldown, but cannot be each used more than once in 1 night. The angel can only use favours when alive.
+- Respawns in 6 phases. 

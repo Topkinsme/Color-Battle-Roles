@@ -1,0 +1,6 @@
+Lurker- SOLO
+- Starts the game with 2 disks. They can give a disk to any person in game at any point they want. The person is informed when they get a disk.
+- If a person with a disk dies, the disk is returned to the Lurker. The lurker can then give it to another person in game. 
+- If the lurker is dead, the disks wil remain with the person even if they are dead. 
+- If both the people with disks win, and atleast one of them is alive, the lurker will win. If any one of the members with a disk lose, or if people with both disks die permanently, the lurker will lose too.
+- Does not respawn.

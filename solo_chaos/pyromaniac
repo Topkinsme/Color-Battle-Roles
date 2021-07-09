@@ -1,5 +1,6 @@
 Pyromaniac- SOLO
 - Has the ability to powder 2 people every night, or powder 1 person and light everyone on fire.
+- Lighting everyone on fire will cause all powdered people to get weak attacked.
 - If a powerdered person dies, the powdered effect is erased.
 - Powerding a person is a night end effect. Powdering is not a visit. Powdering someone is before igniting.
 - Wins if they are the last person alive.

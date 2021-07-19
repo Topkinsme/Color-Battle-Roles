@@ -4,5 +4,6 @@ Lunatic- SOLO
 - The egg loses 1 hunger point every night. The lunatic has to use their points to feed the egg. The lunatic cannot raise the hunger level over 5. If the lunatic collects (Number_of_players/3, rounded down) points when the egg is at full hunger, then the Lunatic wins.
 - The lunatic can trade in 1 point for a weak protection at any point in the game.
 - If ever the egg reaches 0 hunger points, the egg will eat the lunatic and the lunatic will lose.
+- If the lunatic wins, the game will end and everyone else will lose.
 - Kill is night end. It is a visiting action. Protection is also night end.
 - Does not respawn.

@@ -1,5 +1,5 @@
 Performer- (4)
-- Gains 100 extra coins each night for every member alive on the team when a night starts.
+- Gains 100 extra coins each night for every member alive on the team when a night starts. Does not gain any coins if the performer is dead themselves.
 - Once during the game, can choose to go invisible, strong protecting themselves for that night.
 - They gain the money as the night starts, and the invisibility is a night end non-visiting action.
 - Respawns in 4 phases.

@@ -1,5 +1,5 @@
 Sorcerer - ()
 - Each night, may choose to either disguise someone as a different role or protect someone.
-- Disguise lasts until the Sorcerer dies.
-- The disguise has a cooldown of 2 phases, protection does not have any cooldown. The protection is end phase, while the disguise is immediate. Both abilities can only be performed during the night.
+- Disguise lasts until the Sorcerer dies. Can only perform one of their abilities during the night.
+- The disguise has a cooldown of 2 phases, protection does not have any cooldown. The protection is end phase and weak, while the disguise is immediate. Both abilities can only be performed during the night.
 - Does not respawn.

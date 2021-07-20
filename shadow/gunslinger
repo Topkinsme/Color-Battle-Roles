@@ -3,3 +3,5 @@ Gunslinger - ()
 - The player that has been marked will not be notified. 
 - When the Gunslinger kills all their marked targets, he will perform a weak attack on every target. All targets will then be unmarked. They will visit every player they have marked.
 - Does not respawn.
+
+- Nerf (unsure if this role might be too OP): Performing either one of the actions will add a 2 phase cooldown to both abilities.

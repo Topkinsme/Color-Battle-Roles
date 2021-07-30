@@ -3,5 +3,7 @@ Builder- (5)
 -- Wall - 12 parts - Protects all members of their team from all attacks for once. Structure will remain if not attacked.
 -- Fort - 21 parts - Protects all members of their team from all attacks, twice. Structure will remain if not attacked.
 -- Spikes - 7 parts - The builder can choose to add spiked to any already existing structures, which will kill the first attacker who tries to attack the structure. Note that spikes do not stop the structure from breaking. The attacks will still break the structures. Any kills using the spiked do not award any parts.
-- The builder continues to get parts even when dead. However, they can only build when alive. Structures are built as an end night effect. Two structures cannot exist at once. All of builder's protections are strong protections.
+- Two structures cannot exist at once. The structures provide strong protection.
+- The builder continues to get parts even when respawning.
+- Structure building is completed as a post-night action.
 - Respawns in 6 phases.

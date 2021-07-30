@@ -5,5 +5,6 @@ Killer- SOLO -
 - If the killer ever kills multiple times in a night, then both the kills happen together, which means that the team of the last killed person conditions will apply to both kills.
 - Bombs or other items that kill independantly of the killer do not provide hearts.
 - The killer will automatically lose and die if they can not possibly earn enough hearts to win. This will also happen if there is only 1 team left alive.
-- Kill action is night end. Counts as a visiting action. Obtaining hearts are end night effects. Has no cooldown.
+- Obtaining hearts occurs at post-night.
+- Kill happens at night end. Counts as a visiting action. Has no cooldown.
 - Doesn't respawn.

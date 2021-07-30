@@ -1,7 +1,7 @@
 Role Copier- (6)
 - Has the ability to copy the role of any respawning person.
 - Once copied, the role copier can choose to use the role as long as they wish. Each night they can use the role they have copied earlier, or try to copy a new role. The role copier will know the copied role immediately but cannot use it's powers till the next night (If it's a action). 
-- If the role copier attempts to copy any royalty role or any solo role, they instead get the warrior role.
+- If the role copier attempts to copy any royalty or any solo role, they instead get the warrior role.
 - Copying is instant. Other conditions are ported from the copied role.
 - The copier cannot copy from their teammates. The role copier cannot copy the same person twice in a game.
 - The role copier loses their copied role when they die.

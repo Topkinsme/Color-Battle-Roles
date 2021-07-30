@@ -5,4 +5,5 @@ Gem Trader- SOLO -
 - Gems cannot be given to anyone with a gem (Except the gem trader). If attempted to do so, your action will fail. Holding a gem disables you from performing any actions. If you are killed by the daily tribute while holding a gem, you will be killed and the gem will be returned to the gem trader.
 - The gem trader can also get rid of one of their gems by paying 5000c during night ends. Gems are given to people after attacks. The gem trader automatically loses if there is only 1 team alive.
 - If the gem trader survives 1 full day with 0 gems, they win. Gems are given to people after attacks, so if the gem trader has no gems when a night's attacks happen, they'll win and any attempts to transfer gems that night will be cancelled.
+- Gem transfer is a post-night action.
 - Cannot respawn.

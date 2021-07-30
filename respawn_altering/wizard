@@ -1,6 +1,5 @@
 Wizard- (5)
 - Can reduce or increase a person's respawn time by 2 phases during the night.
 - Cannot target players who are not respawning.
-- Action is night end after kills. 2 phase cooldown.
-- Due to the action occuring after kills, it will fail if the wizard is killed that night.
+- Action is an Post-night. 2 phase cooldown.
 - Respawns in 6 phases.

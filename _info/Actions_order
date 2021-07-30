@@ -21,6 +21,7 @@ NIGHT
 -Targets are poisoned, if any.
 ... (Any and all instant actions)
 -Kidnapper chooses target/Item Agent picks someone
+-Night end actions
 -All attacks.
 -Respawn Time modifications.
--End night effects.
+-End night effects. (effect interupted if killed first)

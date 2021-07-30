@@ -24,4 +24,4 @@ NIGHT
 -Night end actions
 -All attacks.
 -Respawn Time modifications.
--End night effects. (effect interupted if killed first)
+-Post-night action. (interupted if killed)

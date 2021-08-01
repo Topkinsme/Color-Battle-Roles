@@ -1,3 +1,7 @@
 Tribute
 
-Every morning, the king has to choose to tribute one of this team members. This is mandatory. The king has to also choose a certain amount of money to assign to the person. Each team will do the same. The team which pays the least money for their tribute, will have their tribute killed. Use `!tribute` to set your tribute candidate if you're the king. Note that solos do not have to tribute anyone. Also note that daily tributes will be stopped once there are fewer than 2 kings alive.
+During each day phase, each team's king has to choose to tribute one of their team members with a certain amount of money assigned to the tribute. This is mandatory. The lowest paying team will have their tribute killed. 
+Use `!tribute` to set your tribute candidate if you're the king. 
+If a team forgets to set a tribute, a random person from the team will be killed. This can even kill the king, so always set a tribute. 
+In the case that there is a tie for the least paid tribute, both of the members will be killed.
+Note that solos do not have to tribute anyone. Also note that daily tributes will be stopped once there are fewer than 2 kings alive.

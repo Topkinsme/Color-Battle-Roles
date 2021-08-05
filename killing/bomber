@@ -1,7 +1,6 @@
 Bomber- (5)
-- The bomber, when ever killed by a member of another faction, kills a certain number people of their choice.
-- The bomber can pick Total people/5, rounded down, targets to kill at any point after the start of the game, and cannot change these targets at any time. They can take their time in deciding their targets, but once picked, it cannot be changed.
-- If the Bomber is ever killed by a member of another faction, all the other people they have chosen will die immediately. These kills are not counted as a visit.
-- The bombed can pick new targets once they have died and come back to life. The bomber dying because of tribute will not trigger their ability.
-- Picking a target is immediate, and the targets are killed at the same time as when the bomber is killed.
+- The bomber can place a total of 3 bombs at people's houses to kill them. They can place a bomb every night and once placed, the locations cannot be changed.
+- If the Bomber is ever killed by a member of another faction, all the other people they have chosen will be weak attacked. These attacks are not counted as visits.
+- The bomber can place new bombs once they have died and respawned. The bomber dying because of tribute will not trigger their ability.
+- Placing a bomb is night end and is counted as a visit, and the targets are killed at the same time as when the bomber is killed.
 - Respawns in 6 phases.

@@ -1,4 +1,4 @@
 Scout- (4)
 - Can scout someone at night and the next day they will recieve the names of everyone who visited that person.
-- Action is end night, results are day start. Has 2 phase cooldown.
+- Scouting is a night end action. Has 2 phase cooldown.
 - Respawns in 4 phases.

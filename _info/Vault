@@ -1,3 +1,7 @@
 Vault
 
-In this game, sharing your resources with your team is extremely important. You need to work with your team to manage your expenses in order to utilise it fully. You can use `!deposit` and `!withdraw `to deposit and withdraw cash to/from your team vault respectively. This is useful for when you need to save your cash in case you're about to die. Use `!vault` to check how much your vault holds. (Oh, and btw, you can use `!bal` to check your own balance.)
+In this game, sharing your resources with your team is extremely important. 
+You need to work with your team to manage your expenses in order to utilise it fully. 
+You can use `!vault deposit` and `!vault withdraw `to deposit and withdraw cash to/from your team vault respectively. 
+This is useful for when you need to save your cash in case you're about to die. Use `!vault view` to check how much your vault holds. 
+(Oh, and btw, you can use `!bal` to check your own balance.)

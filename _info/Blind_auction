@@ -1,3 +1,5 @@
 Blind Auction
 
-Every day, a powerful item will be for sale in the #auction_house . This item can be purchased by any team by winning the auction. You can use `!blindbid <code> <cost>` to bid for the item, using the code from the auction_house. If you bid higher than all other bidders, you win that item. These items are powerful and can change the flow of the game if used well.
+Every day, a powerful item will be for sale in the #auction_house. 
+This item can be purchased by any team by winning the auction. You can use `!auction blind bid <code> <cost>` to bid for the item, using the code from the auction_house. 
+If you bid higher than all other bidders, you win that item. These items are powerful and can change the flow of the game if used well.

@@ -1,3 +1,7 @@
 Office
 
-Office is a good way to boost the money your team gets by talking! By default players get 10/20 coins by talking in any public chats during the game, but the players can increase this with the help of the office. With each level of the office, the coins per message increases by 10 coins. This is very useful if you want to earn more money by talking. Note that the usual restrictions apply, like the 5 min cooldown, the 10 character minimun rule and the no repetition policy. 
+Office is a good way to boost the money your team gets by talking! 
+By default players get 10/20 coins by talking in any public chats during the game, but the players can increase this with the help of the office. 
+With each level of the office, the coins per message increases by 10 coins. This is very useful if you want to earn more money by talking. 
+Use `!office level` to view your office level and `!office upgrade` to upgrade it! 
+Note that the usual restrictions apply, like the 5 min cooldown, the 10 character minimun rule and the no repetition policy. 

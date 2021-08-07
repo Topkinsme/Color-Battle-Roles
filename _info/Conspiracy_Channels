@@ -1,4 +1,5 @@
 Conspiracy_Channels 
 
-If you ever wish to talk to another member in the game in a private chat, then conspiracy channels is perfect for you. Use the command `!cc create <name> [members]` to create a "conspiracy channel", which is like a private chat but inside the game for anyone you wish. Note that each such channel costs 50 coins.
-Use !help cc to learn more about these commands.
+If you ever wish to talk to another member in the game in a private chat, then conspiracy channels is perfect for you. 
+Use the command `!cc create <name> [members]` to create a "conspiracy channel", which is like a private chat but inside the game for anyone you wish. 
+Note that each such channel costs 50 coins. Use !help cc to learn more about these commands.

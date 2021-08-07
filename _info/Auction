@@ -1,5 +1,7 @@
 Auction
 
-Every day, a powerful item will be for sale in the #auction_house . This item can be purchased by any team by winning the auction. You can use `!bid` to bid for the item, and if you win, the item will be yours. These items are powerful and can change the flow of the game if used well. Note that daily auctions will be stopped once there are fewer than 2 kings alive.
+Every day, a powerful item will be for sale in the #auction_house. This item can be purchased by any team by winning the auction.
+You can use `!auction normal bid <cash>` to bid for the item, and if you win, the item will be yours. 
+These items are powerful and can change the flow of the game if used well. Note that daily auctions will be stopped once there are fewer than 2 kings alive.
 
 (Note- This is for the Normal Auction. Use !i blind_auction for info on blind auctions)

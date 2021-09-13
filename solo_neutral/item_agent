@@ -1,6 +1,21 @@
-Item Agent- SOLO -
-- Has the ability to contact a person anonymously with a choice. The item agent can choose a disguise to show to people if they use their power against them. (This disguise does not work for any other checks) 
-- The contacted person can pay 1000c for the services of the item agent, and can then choose to kill a person or to reveal a person's role and colour, (or to ignore the agent, which is free). If the target picks the item agent, the item agent will show up as the chosen disguise.
-- If the contacted person has less than 200c, they will be killed instantly before day starts.
-- Doesn't have a cooldown. The contacted person is given the choice during the next day. The item agent will win if they complete 5 trades without dying. They will automatically lose if there is only 1 team alive.
+Item Agent- SOLO
+- Has the ability to contact a person anonymously with a choice. 
+- Both the Item Agent and the contacted player come up with an offer. 
+
+List of things buyers can purchase from the Item Agent
+1. Kill any player of the contacted persons choice. 
+2. Heal any player of the contacted persons choice. 
+3. Purchase and deliver any shop item of the contacted persons choice. 
+
+- The contacted player may offer any amount of gold and pick any of the offers. (Minimum of 750c) 
+- Both parties have the option to refuse the offer.
+- If the Item Agent refuses, nothing will happen
+
+If the contacted player refuses, the Item Agent has the option to perform one of the following
+--------------------------------------
+1. Kill [If refused, the IA may perform a weak kill on the buyer]
+2. Protection [If refused, the buyer may no longer be protected for that night]
+3. Shop Item Purchase [If refused, the buyer will become poisoned]
+
 - Cannot respawn.
+Wins if Item Agent receive an x amount of money from trades.

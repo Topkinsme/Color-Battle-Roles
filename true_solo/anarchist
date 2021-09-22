@@ -3,5 +3,5 @@ Anarchist - SOLO
 - If the Anarchist is attacked, the number of kills he can perform reduces by 1, ticking to 0 and eventually -1 at which point the anarchist will die.
 - All of the Anarchist's protections are weak protections, meaning if they are attacked multiple times in a night, they lose multiple kills.
 - Kills are night end. Counts as a visiting action. has no cooldown. 
-- The Anarchist wins when there are no more royalty alive.
+- The Anarchist wins when there are no more royalty alive. The game will end immediately if the Anarchist wins and everyone alive will lose.
 - Cannot respawn.

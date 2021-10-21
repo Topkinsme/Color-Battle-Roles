@@ -1,0 +1,6 @@
+Musician- (6)
+- Has the ability to sing a melody to anyone in game, during the day. This medoly makes them use their night actions on themselves.
+- Has no effects if the target has a day action. If the target had no actions or was roleblocked, nothing happens.
+- Once every game, can also sing a angry tune instead of the normal tune. This will make the person weak attack themselves the next night, and cancel their night actions for that night, regardless of what role they are.
+- Singing to someone is a day end action. Singing to anyone is not a visiting action. Singing has a 2 day (4 phases) cooldown. Singing cannot be used on the same person twice in a row.
+- Respawns in 4 phases.

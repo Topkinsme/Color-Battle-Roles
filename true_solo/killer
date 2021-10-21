@@ -7,4 +7,5 @@ Killer- SOLO -
 - The killer will automatically lose and die if they can not possibly earn enough hearts to win. This will also happen if there is only 1 team left alive.
 - Obtaining hearts occurs at post-night.
 - Kill happens at night end. Counts as a visiting action. Has no cooldown.
+- The game will end immediately if the Killer wins and everyone alive will lose.
 - Doesn't respawn.

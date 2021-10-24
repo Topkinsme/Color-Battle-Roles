@@ -4,6 +4,6 @@ Joker - Solo -
 -- Clubs - Disable all protections on a specific color for the night.
 -- Hearts - Protect yourself from an incoming attack. This is a strong protection.
 -- Spades - Kill up to 2 people.  May choose to target 1 player, which will cause it to be a strong attack.
-- The joker wins if they survive till atleast [players/2] days have passed. The game will end immediately if the Joker wins and everyone alive will lose.
+- The joker wins if they survive till atleast [players/3, rounded up] days have passed. The game will end immediately if the Joker wins and everyone alive will lose.
 - Robbing and killing is end phase, while protection and disabling protection is instant.
 - Doesn't respawn.

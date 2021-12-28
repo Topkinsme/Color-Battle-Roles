@@ -1,3 +1,8 @@
 Role_blocking
 
-Role Blocking items or actions will only stop actions that are submitted that night (or the mentioned night). It will not stop the person from using items, nor does it stop crafting processes. (With the exception of potion master's potions.)
+There are 2 types of roleblocks in this game.
+- Soft Roleblocks will block most actions, but cannot block some actions if the action is completed before they are blocked, or if the role is immune to being roleblocked.
+- Hard Roleblocks will block ALL ACTIONS, regardless of what role it's used on. It is almost like the role is converted into a warrior for 1 night.
+
+Role Blocking items or actions will only stop actions that are submitted that night (or the mentioned night).
+It will not stop the person from using items, nor does it stop crafting processes. (With the exception of potion master's potions).

@@ -2,7 +2,7 @@ Construction Worker - (6)
 - During the night, the construction worker can begin crafting a building. Can only work on one building at a time.
 - The construction worker can build any of the following buildings:
 -- TENT - 1 day prep time - Offers weak protection for the night. The construction worker will die if target is attacked.
--- PORTA POTTY - 2 day prep time - Offers a single weak protection that lasts until target is attacked.
+-- CARRIAGE - 2 day prep time - Offers a single weak protection that lasts until target is attacked.
 -- SHACK - 2 day prep time - Offers strong protection for that night.
 - The construction worker does not lose crafting progress on death.
 - All unused buildings are lost on death. Buildings are role_items.

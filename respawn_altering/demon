@@ -1,0 +1,6 @@
+Demon- (5)
+- Starts the game with a Revive_Book, which is a role_item. This book can be used to revive any respawning player instantly.
+- This book can only be used (number_of_players in demon's team/3, rounded up) times in a game.
+- This book can also be used when the Demon is respawning.
+- Reviving someone is an instant action. Has no cooldowns. (Can be used multiple times in 1 phase)
+- Respawns in 4 phases.

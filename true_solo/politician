@@ -1,9 +1,12 @@
 Politician- SOLO
-- A politician starts every night with 3 orders.
+- A politician gains 3 extra orders every night.
 - They can choose to "buy" a person (dead or alive) with 3 orders. Buying a person gives the person's team and role to the Politician. This also gives that role power to the politician. They can use this power forever.
 - They can use any of the powers that they have from previous buys with 1 order. All role conditions like cooldowns etc stil apply.
-- They can also choose to execute any person they have previously investigated with 2 orders. This will perform an strong attack on them.
+- They can also choose to execute any person they have previously investigated (bought) with 2 orders. This will perform an strong attack on them.
+- Executing a person will also make the politician lose this person's role that they bought, and the politician will need to buy the person again to use the role.
 - They can also choose to weak protect themselves with 2 orders. Or they can choose to strong protect themselves with 3 orders.
+- The Politician has weak protection until they buy 2 people for the first time.
+- Any unused orders will be carried over to the next day.
 - Buying a person is an night end action, so is executing someone and protecting yourself. If the politician uses any of the powers they bought, all conditions of the said role applies.
 - All orders are role_items, but the usage of orders cannot be role blocked.
 - The politician wins when they are the last person alive.

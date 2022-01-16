@@ -3,6 +3,6 @@ Barricader - (6)
 -- Divine Barricade, grants target Strong Protection for the night. If they attacked, reveals the name of the attacker.
 -- Strong Barricade, grants the target Strong Protection for the night.
 -- Weak Barricade, grants the target Weak Protection for the night, but if they are attacked, you die.
-- Can only use each barricade once. Gets all the barricades back upon respawning.
+- Can only use each barricade once. Gets all the barricades back upon respawning. All barricades are role_items.
 - Cannot use more than 1 barricade every night. Can be role blocked. Protection is night end. Counts as a visting action.
 - Respawns in 6 phases.

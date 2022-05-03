@@ -1,7 +1,7 @@
-Tyrant- (5)
+Tyrant- (6)
 - Starts the game off as a powerless person, but then slowly gains more power as they die.
 - Upon dying once, they gain the ability to learn the role of a person every other night. (Cooldown 2 phases)
 - Upon dying twice, they lose the ability to invest roles, but gain the ability to weak protect a person each night.
 - Upon dying a third time, they unlock the ability to weak protect or weak attack a person in the night. Dying furthur does not unlock any new powers.
 - Investing is instant, Protecting and attacking are both night end and visiting actions.
-- Respawns in 2 phases at the start of the game, 4 phases after they have died once, and 6 phases every time after.
+- Respawns in 2 phases.

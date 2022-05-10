@@ -1,4 +1,5 @@
-Death Swapper- (2)
-- Has the ability to make anyone respawn instantly for the cost of killing themselves. 
-- Action is instant. 
+Death Swapper- (5)
+- Has the ability to transfer respawn progress from any player to another player.
+- Both the players need to be respawning. The sacrificed player's respawn time is extended by 2 phases, while the target player's respawn time is extended by 2 phases.
+- Completing the ritual is a Post-night action. 2 phase cooldown.
 - Respawns in 4 phases.

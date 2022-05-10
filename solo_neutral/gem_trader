@@ -1,9 +1,12 @@
-Gem Trader- SOLO -
-- Starts off the game with a certain number of gems. (Number of gems = Number of people/4 , Rounded down) Can give a gem to a person every night. If a person with a gem is attacked , the attack is cancelled. Gems provide strong protection for the holder.
-- If a person with a gem is strong attacked twice in the same night, the holder will die, and the gem will simply break and be put out of circulation.
-- Anyone with a gem can pass it to others. Anyone with a gem the night prior to the gem trader winning , will die. These deaths are counted as NIGHT KILLS and not day kills. No protection can save you from this.
-- Gems cannot be given to anyone with a gem (Except the gem trader). If attempted to do so, your action will fail. Holding a gem disables you from performing any actions. If you are killed by the daily tribute while holding a gem, you will be killed and the gem will be returned to the gem trader.
-- The gem trader can also get rid of one of their gems by paying 5000c during night ends. Gems are given to people after attacks. The gem trader automatically loses if there is only 1 team alive.
+Gem Trader- SOLO
+- Starts off the game with a certain number of charged gems. (Number of gems = Number of people/4 , Rounded down) 
+- Can give a gem (charged or drained) to a person every night. A person with a charged gem is provided weak protection permanently. Both the charged gem and the drained gem roleblock the current holder.
+- If a person with a charged gem is weak attacked, the gem turns into a drained gem.
+- If a person with a charged gem is strong attacked, the gem is destroyed and removed from the game.
+- If a person with a drained gem is weak attacked and killed, the drained gem is returned to the gem trader.
+- Anyone with a gem can pass it to others. The person is informed if they hold a powered gem or a drained gem.
+- Attempting to give a gem to anyone who already holds a gem will fail, except if it's the gem trader. If you are killed by the daily tribute while holding a gem, you will be killed and the gem will be returned to the gem trader.
 - If the gem trader survives 1 full day with 0 gems, they win. Gems are given to people after attacks, so if the gem trader has no gems when a night's attacks happen, they'll win and any attempts to transfer gems that night will be cancelled.
+- Anyone with a gem the night prior to the gem trader winning, will die. These deaths are counted as NIGHT KILLS and not day kills. Gem explosions are unstoppable attacks.
 - Gem transfer is a post-night action. Gems are role_items.
 - Cannot respawn.

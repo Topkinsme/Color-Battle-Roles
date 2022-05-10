@@ -1,7 +1,8 @@
 Postman - SOLO -
 - Can choose to give their target a Poison package (Which kills them if they open the package) or a Kill package (Which they can use to kill 1 person that night).
 - The target isn't informed what package they receive. The target can choose to open it or dispose it.
-- Package gets delivered when the next day starts. The target has the entire day to choose. If the package is opened, the postman gets strong protection for the following night.
+- Package gets delivered when the next day starts. The target has the entire day to choose.
+- If the package is opened, the postman gets strong protection for the following night.
 - The package will be delivered even if the postman is dead. All postman packages are role_items.
-- The postman wins if 2 packages of each type are opened before they die.
+- The postman wins if 2 packages of each type are opened before they die. If they win, everyone else in the game will lose instantly.
 - Cannot respawn.

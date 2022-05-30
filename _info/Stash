@@ -1,3 +1,4 @@
 Stash
 
-Items that a person owns, cannot be directly given to other members of their teams, but can instead be deposited in the team stash using the command `!store <item>`, from where it can be taken and used by any member of the team. All auction items also go to the team stash once received. Sharing of items can be useful in many cases. Use `!take <item>` to take things out of your stash.
+Items that a person owns, cannot be directly given to other members of their teams, but can instead be deposited in the team stash using the command `!stash store <item>`, from where it can be taken and used by any member of the team using the `!stash take` command. 
+All auction items also go to the team stash once received. Sharing of items can be useful in many cases.

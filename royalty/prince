@@ -1,4 +1,4 @@
 Prince- (6)
 - Takes the place of the king, if they are alive when the king dies.
-- Has no other abilities.
+- When the prince takes the place of the king, they receive a one-time donation of [Number of teammates alive or respawning * 400] coins. (This includes the prince.)
 - Respawns in 2 phases as a prince, cannot respawn as a king.

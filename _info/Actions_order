@@ -21,8 +21,7 @@ NIGHT
 -Targets are poisoned, if any.
 ... (Any and all instant actions)
 -Kidnapper chooses target/Item Agent picks someone
--All attacks.
--Respawn Time modifications.
--Cult Leader Curse is cast.
--Gem Transfer.
--Wall is built.
+-Night end actions
+-Respawn Time and Crafting Progress modifications.
+-All attacks. (and deaths)
+-Post-night action. (interupted if killed)

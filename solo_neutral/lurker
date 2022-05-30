@@ -1,0 +1,8 @@
+Lurker- SOLO
+- When the game starts, every person in the game is assigned a disk. There will be 8 unique disks in game, and atleast 1 of each of the disks will be in game.
+- The lurker will know all the disk assignments. Whenever a person dies, not necessarily permanently, the disk they own will go to the lurker if the lurker doesn't already have that disk.
+- When in possession of 2 unique discs, the lurker gains permanent weak protection. On 4, they gain the ability to role check a new person every night till they own 4 discs.
+- On 6, they gain permanent strong protection. On gaining 8 discs, they win the game. 
+- If the lurker does not gain any new discs for 2 nights in a row, they will lose half the discs they currently own. (rounded down)
+- The game will end immediately if the Lurker wins and everyone alive will lose.
+- Does not respawn.

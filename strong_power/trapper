@@ -1,0 +1,6 @@
+Trapper- (6)
+- Has the ability to place traps outside any player's house. Any person to visit that player will be weak attacked. Placed traps don't dissapear until they are triggered.
+- The traps provide no protection to the player, nor do they attack the player outside whose house the trap was placed.
+- The trapper has a cooldown of 2 days(4 phases)
+- Placing a trap is an instant action, but is not a visiting action. 
+- Respawns in 6 phases.

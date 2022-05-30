@@ -1,0 +1,10 @@
+Lunatic- SOLO
+- The lunatic starts the game with in possession of an Egg. The egg requires a sacrifice every day.
+- The lunatic themselves have the ability to weak attack a person every night. With each person they kill, they feed the egg.
+- If the egg is not fed for 3 days (not necessarily in a row), it will eat the lunatic and the game will end.
+- The amount of days the egg can stay hungry, will increase by 1 with every successful kill.
+- The lunatic can trade in 1 point for a weak protection at any point in the game.
+- If the egg is fed 3 days in a row, the lunatic wins.
+- If the lunatic wins, the game will end and everyone else will lose.
+- Kill is night end. It is a visiting action. Protection is also night end. Egg's hunger counter going down is day end.
+- Does not respawn.

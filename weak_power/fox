@@ -1,0 +1,5 @@
+Fox- (2)
+- The fox grows more sly the longer it stays alive.
+- Each night the fox is alive, it reduces it's own respawn time by 1 phase. This is capped at 1 phase. 
+- Has no actions, only a passive ability.
+- Respawns in 4 phases by default. 

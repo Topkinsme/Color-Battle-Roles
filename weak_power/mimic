@@ -1,0 +1,6 @@
+Mimic- (3)
+- Starts the game with no powers. Upon the permanent death of a non-royalty team member, the mimic gets the role of the dead teammate. 
+- Once during the game, can choose to copy any player's role, to gain the role for 2 nights. Choosing a royalty role or a solo role will return a warrior role.
+- All other restrictions and conditions are inherited from the acquired role.
+- Role conversion is instant. Copying is instant.
+- Respawns in 2 phases as the mimic, and then takes the respawn time of the acquired role.

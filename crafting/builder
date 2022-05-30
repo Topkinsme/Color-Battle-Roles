@@ -17,4 +17,4 @@ Builder- (5)
 - Two structures cannot exist at once. The builder cannot be role blocked.
 - The builder continues to get parts even when respawning. All of the builder's structures are role_items.
 - Structure building is completed as a post-night action.
-- Respawns in 6 phases. 
+- Respawns in 6 phases.

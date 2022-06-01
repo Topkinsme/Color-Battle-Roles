@@ -1,0 +1,5 @@
+Robber- (3)
+- Has the ability to check any individual player's or any team's vault/wallet balance every night. (Similar to the market item)
+- They can also conduct a robbery, stealing 10% of the vault's/wallet's balance. This ability has a cooldown of 2 phases and is used instead of the regular check.
+- The robber picks the target (Either a Person or a Team) and an action during the day. The robber gets the money when the night comes to an end. 
+- Respawns in 4 phases.

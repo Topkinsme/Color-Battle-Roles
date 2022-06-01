@@ -1,5 +1,6 @@
 Alert Warrior- (2)
 - Has the ability to go alert during the night.
-- When alert, the alert warrior will have strong protection and perform a weak attack on all of its visitors that night.
+- When alert, the alert warrior will perform a weak attack on all of its visitors that night.
+- It's ability provides no protection however and so will cause the alert warrior's death if attacked.
 - Action is instant. Has a cooldown of 2 phases.
-- Respawns in 4 phases.
+- Respawns in 2 phases.

@@ -1,9 +1,20 @@
 Builder- (5)
-- The builder gets building parts when any opponents die. Each person killed by their team gives them 2 pieces, any non team kills from outside the team gives him 1 piece. The builder can then use these parts to build the structures given below:
--- Wall - 12 parts - Protects all members of their team from all attacks for once. Structure will remain if not attacked.
--- Fort - 21 parts - Protects all members of their team from all attacks, twice. Structure will remain if not attacked.
--- Spikes - 7 parts - The builder can choose to add spiked to any already existing structures, which will kill the first attacker who tries to attack the structure. Note that spikes do not stop the structure from breaking. The attacks will still break the structures. Any kills using the spiked do not award any parts.
-- Two structures cannot exist at once. The structures provide strong protection. The builder cannot be role blocked.
+- The builder gets building parts when any opponents die. Each person killed by their team gives them 2 pieces, any non team kills from outside the team gives him 1 piece. 
+- The builder can then use these parts to construct a structure. 
+
+- Walls- Provides protection to the entire team.
+   > Wooden wall- Costs 5 parts, provides weak protection.
+   > Stone wall- Costs 7 parts, provides strong protection.
+- Foundation- Durability
+   > Clay- Costs 2 parts, the structure will be destroyed after 1 night, regardless of if anyone was attacked.
+   > Cement- Costs 5 parts, the structure will remain until an attack takes place.
+   > Tar- Costs 10 parts, the structure will remain until 2 attacks takes place.
+- Misc- Optional items
+   > Spikes- Can be added to a structure for 7 parts, weak attacks all attackers for 1 night. (Is not removed if the wall isn't attacked)
+   > Shed- Can be built individually for 3 parts, provides weak protection to  1 person for 1 night.
+
+- The builder can build a structure with a wall and foundation of their choice, and optional misc items.
+- Two structures cannot exist at once. The builder cannot be role blocked.
 - The builder continues to get parts even when respawning. All of the builder's structures are role_items.
 - Structure building is completed as a post-night action.
 - Respawns in 6 phases.

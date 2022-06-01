@@ -4,5 +4,5 @@ Postman - SOLO -
 - Package gets delivered when the next day starts. The target has the entire day to choose.
 - If the package is opened, the postman gets strong protection for the following night.
 - The package will be delivered even if the postman is dead. All postman packages are role_items.
-- The postman wins if 2 packages of each type are opened before they die. If they win, everyone else in the game will lose instantly.
+- The postman wins if 3 packages of ANY type are opened before they die. If they win, everyone else in the game will lose instantly.
 - Cannot respawn.

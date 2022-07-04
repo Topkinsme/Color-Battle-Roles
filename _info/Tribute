@@ -4,4 +4,5 @@ During each day phase, each team's king has to choose to tribute one of their te
 Use `!tribute set` to set your tribute candidate if you're the king. 
 If a team forgets to set a tribute, a random person from the team will be killed. This can even kill the king, so always set a tribute. 
 In the case that there is a tie for the least paid tribute, both of the members will be killed.
-Note that solos do not have to tribute anyone. Also note that daily tributes will be stopped once there are fewer than 2 kings alive.
+Note- Solos do not have to tribute anyone. Also note that daily tributes will be stopped once there are fewer than 2 kings alive. 
+Also, Tributes start from day 1. There is no tribute on day 0.

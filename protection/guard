@@ -1,6 +1,6 @@
-Guard- (5)
-- Can protect someone from all attacks at all times. They will die instead of the person they protect. 
-  - The first time the Guard's target is Strong Attacked, only the Guard will die. Every time after that, both the target and the Guard will die.
+Guard- (6)
+- Can protect someone from all attacks at all times. This is strong protection. They will die instead of the person they protect. 
+  - If the Guard's target is Strong Attacked, only the Guard will die.
   - Cannot change their target after initially picking it (Unless target somehow dies before guard).
   - When the guard dies instead of its target, the killers visit is not redirected into having visted the guard.
 - The guard cannot be role-blocked. The guard is the last layer of protection, any other protection will be used before this.

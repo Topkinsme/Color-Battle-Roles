@@ -1,0 +1,6 @@
+Detective- (5)
+- Starts with 3 evidence.
+- Gains 1 evidence at the end of each phase if they are alive.
+- 3 evidences can be used to inspect someone who's respawning, showing the name of the person who killed them. If multiple people attacked them, then all the names are shown.
+- 4 evidences can be used to inspect someone who's respawning, to show the respawning person's team colour and the team of the attackers that killed them.
+- Respawns in 4 phases.

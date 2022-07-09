@@ -1,0 +1,8 @@
+Tranquilizer- (5)
+- Can create a maximum of 3 tranquilizer darts for the entire game. Tranquilizer darts take 2 phases to make and only one can be made at a time. 
+- During a night phase, the tranquilizer can choose to use the dart on someone. The dart will give the target the sleep effect.
+- The sleep effect will soft roleblock the target and remove all layers of protection they have.
+- If the tranquilizer dies, it loses all of its current tranquilizer darts.
+- The tranquilizer will not lose progress if killed when making a dart, but will lose the darts in their possession if killed. 
+- Tranquilizers have a usage limit of a maximum of 1 tranquilizer per night. Tranquilizers are role_items.
+- Respawns in 6 phases.

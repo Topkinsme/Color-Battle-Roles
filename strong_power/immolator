@@ -1,0 +1,7 @@
+Immolator- (5)
+- Starts with 0% heat.
+- When attacked, the attack is negated, unless it's an unstoppable attack, but it adds 40% heat. 
+- During the night, immolator can gain 25% heat to perform a weak attack at a target OR gain 25% heat to weak protect any teammate for a night.
+- When not attacked, immolator loses 5% heat at the start of night and 10% heat at the start of day.
+- Immediately dies when reaching 100% or more heat. When respawned, it starts again with 0% heat.
+- Respawns in 6 phases.

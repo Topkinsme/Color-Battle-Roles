@@ -1,0 +1,11 @@
+Item Agent- SOLO
+- Has the ability to contact a person anonymously with a choice to buy items or services from themselves.
+- List of things buyers can purchase from the IA-
+-- Investigate any player
+-- Heal any player
+-- Purchase any renewable shop item
+- The Player comes up with an offer first, followed by the Item Agent.
+- The item agent may refuse the player's deal if they wish with no consequences.
+- But if the contacted player refuses the item agent's offer, the item agent may perform a weak attack on the person.
+- The Item Agent wins if they receive [Team Count]*1000 amount of money from trades.
+- Cannot respawn. The game will end if the item agent wins.

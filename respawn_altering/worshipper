@@ -5,6 +5,6 @@ Worshipper (7)
 - 3.Demonic Incantation- can increase respawn phases by 2 for an enemy.
 - Each Incantation takes 2 phases to cast except the Heavenly incantation which is immediate upon use.
 - Post-Night Action, each incantation can be used once and only one incantation can be used per night. 
-- The target affected will be informed. Respawn times cannot be extended beyond 6 phases.
+- The target affected will be informed. Respawn times cannot be extended beyond 6 phases. Any attempts to do this will silently fail.
 - The incantations are returned on death.
 - Respawns in 6 phases.

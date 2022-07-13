@@ -1,6 +1,6 @@
 Death Swapper- (5)
 - Has the ability to transfer respawn progress from any player to another player.
-- Both the players need to be respawning. The sacrificed player's respawn time is extended by 2 phases, while the target player's respawn time is extended by 2 phases.
+- Both the players need to be respawning. The sacrificed player's respawn time is extended by 2 phases, while the target player's respawn time is reduced by 2 phases.
 - Both the players affected will be informed. Respawn times cannot be extended beyond 6 phases. Any attempts to do this will silently fail.
 - However, even if the modifications for either of the targets fail, the other player will recieve the full effects if possible.
 - Completing the ritual is a Post-night action. 2 phase cooldown.

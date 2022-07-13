@@ -1,7 +1,7 @@
 Gardener- (6)
 - Can grow 3 types of plants.
 -- Lime Seeds - 4 phase grow time - Can be given to someone to force them to change their target for their effect. If the target does not have a targeting ability, the effect will not go through. Effects from crafted actions/items, ex. worshipper's prayers, are not effected
--- Thorn Seeds - 4 phase grow time - Can be planted on someone to weak attack anyone who visits them, but will not kill the target. Anyone killed by thorns will have their respawn time halved.
+-- Thorn Seeds - 4 phase grow time - Can be planted on someone to weak attack anyone who visits them, but will not kill the target. Anyone killed by thorns will have their respawn time halved. (Rounded-up)
 -- Bush Seeds - 3 phase grow time - Can be planted on a teammate to hide them, giving them weak protection.
 - Can grow a maximum of one seed at a time. Fully grown seeds are instant use when chosen to be used.
 - Gardener can only have a maximum of 3 fully grown seeds. Seeds are role_items.

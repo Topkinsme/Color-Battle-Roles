@@ -1,5 +1,5 @@
 Guard- (6)
-- Can protect someone from all attacks at all times. This is strong protection. They will die instead of the person they protect. 
+- Can protect someone from all attacks at all times. This protection is strong protection. They will die instead of the person they protect. 
   - If the Guard's target is Strong Attacked, only the Guard will die.
   - Cannot change their target after initially picking it (Unless target somehow dies before guard).
   - When the guard dies instead of its target, the killers visit is not redirected into having visted the guard.

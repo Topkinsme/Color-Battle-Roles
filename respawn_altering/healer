@@ -1,5 +1,5 @@
 Healer- (5)
 - During the night, the Healer can tend to a respawning players wounds, speeding up their respawn progress by 2 phases.
-- Cannot target players who are not respawning.
+- Cannot target players who are not respawning. The target affected will be informed.
 - Healing is a post-night action. 2 phase cooldown.
 - Respawns in 4 phases.

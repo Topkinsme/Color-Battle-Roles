@@ -1,5 +1,6 @@
 Finisher- (5)
 - At night, the finisher can choose to inflict further harm on a respawning player, extending their respawn timer by 2 phases.
 - Cannot target players who are not respawning.
-- Harming someone is a post-night action. 2 phase cooldown.
+- The target affected will be informed. Respawn times cannot be extended beyond 6 phases. Any attempts to do this will silently fail.
+- Harming someone is a post-night action. 2 phase cooldown. 
 - Respawns in 4 phases.

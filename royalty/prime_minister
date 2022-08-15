@@ -1,5 +1,6 @@
 Prime Minister- (7)
-- The Prime Minister replaces a King on a team. When a Prime Minister is alive, their team is allowed to respawn, and when they permanently die, their teammates can no longer respawn.
-- The Prime Minister is allowed to respawn one time, if it dies again, then it permanently dies.
-- Prince, Princess, and Queen do not replces it when it permanently dies.
+- The Prime Minister replaces a King on a team.
+- When a Prime Minister is alive, their team is allowed to respawn, and when they permanently die, their teammates can no longer respawn.
+- The Prime Minister is allowed to respawn one time, but if they die again, then they permanently die.
+- Prince, Princess and Queen do not replace them when they permanently die.
 - Respawns in 4 phases.

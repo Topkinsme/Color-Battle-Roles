@@ -1,8 +1,8 @@
 Worshipper (7)
 - The Worshipper has the ability to use 3 types of prayers.
-- 1.Heavenly Incantation- can respawn a person immediately.
-- 2.Earthly Incantation- can reduce respawn phases by 4 for the team members who are respawning.
-- 3.Demonic Incantation- can increase respawn phases by 2 for an enemy.
+-- Heavenly Incantation- can respawn a person immediately.
+-- Earthly Incantation- can reduce respawn phases by 4 for all the team members who are respawning.
+-- Demonic Incantation- can increase respawn phases by 2 for an enemy.
 - Each Incantation takes 2 phases to cast except the Heavenly incantation which is immediate upon use.
 - Post-Night Action, each incantation can be used once and only one incantation can be used per night. 
 - The target affected will be informed. Respawn times cannot be extended beyond 6 phases. Any attempts to do this will silently fail.

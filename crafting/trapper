@@ -1,0 +1,11 @@
+Trapper- 6
+- Has the ability to set traps on any player in game.
+- If the trapped player uses their role action on anyone from the trapper's team, the trap will trigger.
+- Available traps are-
+-- Foothold - Uncraftable, but starts the game with 4- On triggering, provides role and team info to trapper.
+-- Snares - 2 phases to craft- Weak attacks the trapped person.
+-- Cages - 4 phases to craft- Weak attacks the trapped person and provides role and team info to the trapper.
+- All traps expire in 4 phases after being used on someone, upon which it stops working. 
+- The trapper can only use 1 trap per night, and can use traps while crafting.
+- Trapping someone is a night end action.
+- Respawns in 6 phases.

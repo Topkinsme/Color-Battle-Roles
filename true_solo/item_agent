@@ -9,4 +9,5 @@ Item Agent- SOLO
 - The item agent may refuse the player's deal if they wish with no consequences.
 - But if the contacted player refuses the item agent's offer, the item agent may perform a weak attack on the person.
 - The Item Agent gets strong protection for the current night or the next night if the deal is accepted. 
-- The Item Agent wins if they receive [Number of teams exclud
+- The Item Agent wins if they receive [Number of teams excluding solos]*1000 amount of money from trades.
+- Cannot respawn. The game will end if the item agent wins.

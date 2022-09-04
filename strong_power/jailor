@@ -1,6 +1,6 @@
 Jailor- (7)
 - Can pick a person every day end to imprison, for 2 phases.
-- Any jailed person is protected from all attacks, is role blocked for that duration, and cannot be tributed by the team. The person is informed they were jailed.
-- The jailor cannot jail the same person twice in a row.
+- Any jailed person is protected from all attacks and is role blocked for that duration. The person is informed they were jailed.
+- The jailor cannot jail the same person twice in a row, unless the jailor has died and respawned.
 - Action is day end. Has no cooldown. Cannot jail themselves. Jailing is weak protection. Jailing is not a visiting action.
 - Respawns in 6 phases.

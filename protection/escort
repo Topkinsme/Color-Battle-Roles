@@ -1,10 +1,10 @@
 Escort (5)
-- During the day, may choose one player. The following night, all actions performed on the player will be redirected onto themself.
+- During the day, may choose one player. The following night, all actions performed on the player will be redirected onto themselves.
 - They cannot change their target during the night.
-  Also may not choose to redirect on the same player twice consecutively.
-  Redirection ability will occur throughout the night. 
-  Only abilities (both Immediate and End Phase abilities) on their target will be redirected to the Escort.
-  Items used on the Escort's target will not be affected.
+- Also may not choose to redirect on the same player twice consecutively, unless they die and respawn.
+- Redirection ability will occur throughout the night. 
+- Only abilities (both Immediate and End Phase abilities) on their target will be redirected to the Escort.
+- Items used on the Escort's target will not be affected.
 - Action is used during the day, and is activated on End Phase during the following night.
-  Ability has a 2 phase cooldown.
+- Ability has a 2 phase cooldown.
 - Respawns in 4 phases.

@@ -1,0 +1,9 @@
+Monarch- (10)
+- Is the leader of the team. Can also kill a person every night.
+- The team will stop respawning after the monarch's death. Chooses a person from the team for tribute, every morning. 
+- The monarch can choose a teammate at the start of the game, who will be promoted to a chief warrior on the monarch's death.
+- If the choosen teammate is respawning when the monarch dies, they will only transform into a chief warrior upon respawning. 
+- If the choosen teammate is a royalty role, the conversion will silently fail.
+- If a teammate was about to respawn just as the monarch dies, the person respawning will lose the ability to respawn and die instantly.
+- Any succeeding royalty role will turn into a king, not a monarch, unless mentioned. 
+- Doesn't respawn. Kill is night end.

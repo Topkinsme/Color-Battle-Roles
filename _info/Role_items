@@ -1,0 +1,5 @@
+Role_items
+
+There are certain items in the game, which are unobtainable, except by specific roles. That is, items that some roles get due to a certain role power.
+These items are not placed in the player's inventory, and are instead kept track of by the hosts. These items cannot be traded with other players either.
+The usage of such items can be blocked by role blocks, both soft and hard, except if the role mentions that the item usage cannot be roleblocked.

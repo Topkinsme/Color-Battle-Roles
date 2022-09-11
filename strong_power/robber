@@ -1,8 +1,0 @@
-Robber- (3)
-- Has the ability to steal money from any individual person or any team's vault, every night.
-- The robber can take some of the money present inside any 1 person's balance or 1 team's vault, by winning a game against them. Winning the game would give the robber 15%, a draw would give the robber 5%, and a loss would give the robber nothing.
-- The game is played by both the robber and the target picking a choice between a Bow, Shield and a Cannon. The winning order is Bow > Cannon > Shield > Bow
-- In case the robber is robbing a team vault, the team can collectively decide on a choice between themselves, collectively.
-- Failure to pick a choice will make them lose 15% by default. The robber can't rob a person/team twice in a row.
-- The robber picks the target (Either a Person or a Team) during the day, and the target has the entire night to decide a choice. The robber gets the money when the night comes to an end. 
-- Respawns in 4 phases.

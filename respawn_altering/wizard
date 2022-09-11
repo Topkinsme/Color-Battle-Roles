@@ -1,6 +1,7 @@
-Wizard- (5)
-- Can reduce or increase a person's respawn time by 2 phases during the night.
+Wizard- (6)
+- At night, the Wizard can perform a ritual spell on a respawning player's body resulting in their respawn progress being adjusted by 2 phases.
+- The Wizard can choose whether the adjustment is addition or subtraction (can become a negative number).
 - Cannot target players who are not respawning.
-- Action is night end after kills. 2 phase cooldown.
-- Due to the action occuring after kills, it will fail if the wizard is killed that night.
-- Respawns in 6 phases.
+- The target affected will be informed. Respawn times cannot be extended beyond 6 phases. Any attempts to do this will silently fail.
+- Completing the ritual is a Post-night action. 2 phase cooldown.
+- Respawns in 4 phases.

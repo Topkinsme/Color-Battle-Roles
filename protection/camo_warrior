@@ -1,6 +1,5 @@
-Camo Warrior- (3)
-- Has the ability to go camo during the night. They can either pick to go camo themselves, or pick another person to go camo instead of them. They cannot pick the same person twice in a row.
-- The person will be protected when they have camo mode on.
-- The protection provided is Strong Protection.
+Camo Warrior- (6)
+- Has the ability to make any player go camo, providing them with strong protection for a night.
+- They cannot pick the same person twice in a row, unless the camo warrior has died and respawned.
 - Action is night end. Counts as a visiting action. 2 phase cooldown.
 - Respawns in 4 phases.

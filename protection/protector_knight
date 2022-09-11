@@ -1,5 +1,6 @@
-Protector Knight- (4)
+Protector Knight- (5)
 - Has the ability to protect a person during the night.
-- Can pick a different target every night, and cannot change the target after picking for the night. Cannot pick the same person twice in a row.
+- Can pick a different target every night, and cannot change the target after picking for the night.
+- Cannot pick the same person twice in a row, unless the protector knight has died and respawned.
 - Action is night end. Counts as a visiting action. Protection is weak protection. Has no cooldown.
-- Respawns in 6 phases.
+- Respawns in 4 phases.

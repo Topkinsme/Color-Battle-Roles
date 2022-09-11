@@ -1,0 +1,13 @@
+Item Agent- SOLO
+- Has the ability to contact a person anonymously with a choice to buy items or services from the agent, which they can then use anytime they want, once.
+- List of things buyers can purchase from the IA- (All instant use items)
+-- Investigate any player for their role and team.
+-- Weak protect any player player.
+-- Purchase any renewable shop item.
+- The item agent sends the trade offer during the day phase, during which the player must decide a price. Not responding sets the price as 0 coins.
+- The item agent can then accept the deal, or counter offer a price during the night phase, and also decide if they attack the player if they deny or don't respond.
+- The item agent may refuse the player's deal if they wish with no consequences.
+- But if the contacted player refuses the item agent's offer, the item agent may perform a weak attack on the person.
+- The Item Agent gets strong protection for the current night or the next night if the deal is accepted. 
+- The Item Agent wins if they receive [Number of teams excluding solos]*1000 amount of money from trades.
+- Cannot respawn. The game will end if the item agent wins.

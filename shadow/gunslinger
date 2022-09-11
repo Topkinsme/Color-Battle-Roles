@@ -1,7 +1,7 @@
-Gunslinger - ()
+Gunslinger- ()
 - After the first night, may choose to mark an extra person or to kill all marked targets. This does not affect the factional kill.
-- The player that has been marked will not be notified. 
+- The player that has been marked will not be notified.
 - When the Gunslinger kills all their marked targets, he will perform a weak attack on every target. All targets will then be unmarked. They will visit every player they have marked.
+- If marked players are killed, they will keep their mark, even if the Gunslinger attacks their marked targets while they are respawning.
+- Performing either one of the actions will add a 2 phase cooldown to both abilities.
 - Does not respawn.
-
-- Nerf (unsure if this role might be too OP): Performing either one of the actions will add a 2 phase cooldown to both abilities.

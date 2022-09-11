@@ -1,0 +1,5 @@
+Poisoner- ()
+- During the night, may choose to poison a target. This is independant to the faction kill.
+- The target will be notified that they have been poisoned and will no longer have access to any public chat until they are respawning or healed. The only way to cure the poison is by using an Antidote.
+- Poisoning has a cooldown of 2 phases.
+- Does not respawn.

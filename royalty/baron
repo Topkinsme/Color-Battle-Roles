@@ -1,0 +1,5 @@
+Baron- (6)
+- Replaces the Prince, Princess, Queen or Jack.
+- Has the ability to automatically die in place of the King while alive (regardless of the number of attacks). Ability fails if the attack is unstoppable.
+- Does not replace the King upon their death.
+- Respawns in 6 phases.

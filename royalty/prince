@@ -1,4 +1,5 @@
 Prince- (6)
 - Takes the place of the king, if they are alive when the king dies.
-- When the prince takes the place of the king, they receive a one-time donation of [Number of teammates alive or respawning * 400] coins. (This includes the prince.)
+- When the prince takes the place of the king, all the respawning teammates of the prince are brought back to life instantly. 
+- The prince also receives a one-time donation of [Number of teammates alive*400] coins. (This includes the prince.)
 - Respawns in 2 phases as a prince, cannot respawn as a king.

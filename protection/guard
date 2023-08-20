@@ -1,8 +1,9 @@
 Guard- (6)
-- Can protect someone from all attacks at all times. This protection is strong protection. They will die instead of the person they protect. 
-  - If the Guard's target is Strong Attacked, only the Guard will die.
-  - Cannot change their target after initially picking it (Unless target somehow dies before guard).
-  - When the guard dies instead of its target, the killers visit is not redirected into having visted the guard.
+- The guard provides strong protection to 1 user at a time.
+-- If the Guard's target is weak or strong attacked, The guard will die and the attack will fail.
+-- If the Guard's target is attacked using an unstoppable attack, both the guard and the target will die.
+-- When the guard dies instead of its target, the killers visit is not redirected into having visited the guard.
+- They cannot change their target after initially picking it (Unless the target somehow dies before the guard).
 - The guard cannot be role-blocked. The guard is the last layer of protection, any other protection will be used before this.
 - Action is night end. Counts as a visiting action.
 - Respawns in 4 phases.

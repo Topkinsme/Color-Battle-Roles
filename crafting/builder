@@ -1,5 +1,7 @@
 Builder- (5)
-- The builder gets building parts when any opponents die. Each person killed by their team gives them 2 pieces, any non team kills from outside the team gives him 1 piece. 
+- The builder gets building parts when any opponents die. They do not get parts when their teammates die.
+- Each person killed by their team gives them 2 pieces, any non-team kills from outside the team gives him 1 piece. 
+- The builder gains no parts from tributes.
 - The builder can then use these parts to construct a structure. 
 
 - Walls- Provides protection to the entire team.
@@ -11,7 +13,7 @@ Builder- (5)
    > Tar- Costs 10 parts, the structure will remain until 2 attacks takes place.
 - Misc- Optional items
    > Spikes- Can be added to a structure for 7 parts, weak attacks all attackers for 1 night. (Is not removed if the wall isn't attacked)
-   > Shed- Can be built individually for 3 parts, provides weak protection to  1 person for 1 night.
+   > Shed- Can be built individually for 5 parts, provides weak protection to  1 person for 1 night.
 
 - The builder can build a structure with a wall and foundation of their choice, and optional misc items.
 - Two structures cannot exist at once. The builder cannot be role blocked.
